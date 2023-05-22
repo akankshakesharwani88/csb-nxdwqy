@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://akankshakesharwani88.github.io/csb-nxdwqy/static/css/main.fc5c2c69.css",
+    "main.js": "https://akankshakesharwani88.github.io/csb-nxdwqy/static/js/main.6c331599.js",
+    "index.html": "https://akankshakesharwani88.github.io/csb-nxdwqy/index.html",
+    "main.fc5c2c69.css.map": "https://akankshakesharwani88.github.io/csb-nxdwqy/static/css/main.fc5c2c69.css.map",
+    "main.6c331599.js.map": "https://akankshakesharwani88.github.io/csb-nxdwqy/static/js/main.6c331599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.6c331599.js"
+  ]
+}
